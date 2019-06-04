@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TabRss</string>
+    <string name="white">white</string>
+    <string name="black">black</string>
+    <string name="title">title</string>
+    <string name="link">link</string>
+    <string name="enclosure">enclosure</string>
+    <string name="url">url</string>
+    <string name="description">description</string>
+
+    <string-array name="menu_string_array">
+        <item>white</item>
+        <item>black</item>
+    </string-array>
+</resources>

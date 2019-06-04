@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lifeHacker">https://feeds.lifehacker.jp/rss/lifehacker/index.xml</string>
+    <string name="gizmode">https://www.gizmodo.jp/atom.xml</string>
+    <string name="hamusoku">https://hamusoku.com/index.rdf</string>
+</resources>
